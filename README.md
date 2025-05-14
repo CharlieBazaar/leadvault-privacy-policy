@@ -62,4 +62,4 @@ We may update this policy periodically. Changes will be posted to this GitHub pa
 
 ---
 
-_Last updated: May 14, 2024
+Last updated: May 14, 2024
